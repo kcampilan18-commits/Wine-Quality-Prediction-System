@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+*.pyc
+wine_quality.csv
+wine_model.pkl
+evaluation_results.json
+.DS_Store
