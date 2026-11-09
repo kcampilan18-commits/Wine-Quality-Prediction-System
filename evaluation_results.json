@@ -1,0 +1,25 @@
+{
+    "accuracy": 0.7720588235294118,
+    "precision_good_quality": 0.8014705882352942,
+    "recall_good_quality": 0.7569444444444444,
+    "f1_good_quality": 0.7785714285714286,
+    "precision_needs_improvement": 0.7426470588235294,
+    "recall_needs_improvement": 0.7890625,
+    "f1_needs_improvement": 0.7651515151515151,
+    "confusion_matrix": [
+        [
+            101,
+            27
+        ],
+        [
+            35,
+            109
+        ]
+    ],
+    "test_records": 272,
+    "training_records": 1087,
+    "class_labels": {
+        "0": "NEEDS IMPROVEMENT",
+        "1": "GOOD QUALITY"
+    }
+}
